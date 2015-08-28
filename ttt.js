@@ -1,4 +1,4 @@
-var readline = require('readline');
+var readline = require('readline'); // tic tac toe does not fully functional.  Needs more work
 var rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
